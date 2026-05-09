@@ -1,4 +1,5 @@
 [core]
     remote = wineremote
+    autostage = true
 ['remote "wineremote"']
     url = s3://testbkt17062025
